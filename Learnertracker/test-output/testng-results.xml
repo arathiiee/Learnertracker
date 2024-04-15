@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-14T18:39:26 IST" name="Default suite" finished-at="2024-04-14T18:40:04 IST" duration-ms="37947">
+    <groups>
+    </groups>
+    <test started-at="2024-04-14T18:39:26 IST" name="Default test" finished-at="2024-04-14T18:40:04 IST" duration-ms="37947">
+      <class name="com.learner.pages.TestClass">
+        <test-method is-config="true" signature="configure()[pri:0, instance:com.learner.pages.TestClass@60bd273d]" started-at="2024-04-14T18:39:26 IST" name="configure" finished-at="2024-04-14T18:39:33 IST" duration-ms="7070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configure -->
+        <test-method signature="validate()[pri:1, instance:com.learner.pages.TestClass@60bd273d]" started-at="2024-04-14T18:39:33 IST" name="validate" finished-at="2024-04-14T18:39:36 IST" duration-ms="3255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method signature="invalidform()[pri:2, instance:com.learner.pages.TestClass@60bd273d]" started-at="2024-04-14T18:39:36 IST" name="invalidform" finished-at="2024-04-14T18:39:47 IST" duration-ms="10589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidform -->
+        <test-method signature="learnerform()[pri:3, instance:com.learner.pages.TestClass@60bd273d]" started-at="2024-04-14T18:39:47 IST" name="learnerform" finished-at="2024-04-14T18:39:54 IST" duration-ms="7014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- learnerform -->
+        <test-method signature="uploadfile()[pri:4, instance:com.learner.pages.TestClass@60bd273d]" started-at="2024-04-14T18:39:54 IST" name="uploadfile" finished-at="2024-04-14T18:39:57 IST" duration-ms="3390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadfile -->
+        <test-method signature="pofficerlogin()[pri:5, instance:com.learner.pages.TestClass@60bd273d]" started-at="2024-04-14T18:39:57 IST" name="pofficerlogin" finished-at="2024-04-14T18:40:01 IST" duration-ms="3172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pofficerlogin -->
+        <test-method signature="update()[pri:6, instance:com.learner.pages.TestClass@60bd273d]" started-at="2024-04-14T18:40:01 IST" name="update" finished-at="2024-04-14T18:40:04 IST" duration-ms="3386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+      </class> <!-- com.learner.pages.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
